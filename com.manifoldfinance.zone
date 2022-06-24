@@ -1,6 +1,6 @@
 $ORIGIN manifoldfinance.com.
 $TTL 1h
-manifoldfinance.com. 3600 IN SOA ns1.dnsimple.com. admin.dnsimple.com. 1604125972 86400 7200 604800 300
+manifoldfinance.com. 3600 IN SOA ns1.dnsimple.com. admin.dnsimple.com. 1604125985 86400 7200 604800 300
 manifoldfinance.com. 3600 IN NS ns1.dnsimple.com.
 manifoldfinance.com. 3600 IN NS ns2.dnsimple.com.
 manifoldfinance.com. 3600 IN NS ns3.dnsimple.com.
@@ -22,10 +22,16 @@ forums.manifoldfinance.com. 3600 IN CNAME manifold.hosted-by-discourse.com.
 status.manifoldfinance.com. 3600 IN CNAME statuspage.betteruptime.com.
 manifoldfinance.com. 3600 IN A 76.76.21.21
 staking.manifoldfinance.com. 3600 IN CNAME cname.vercel-dns.com.
-manifoldfinance.com. 3600 IN DNSKEY 257 3 8 AwEAAcFyZWEaj05w1zA/0ZmrKRIqFmTWeoPTHTwkiybIxH00nFDjHy0c6lsW4RlWSnFKwahSbPBVjsVPPI8hfA4777TN4mjjwHJ0CLNdojkS+vm3u02/qhpcm8UrZnyxP012vQAScjhnnd7LvMBzowLEOGSfegXo4E6zuxVEeB1CGK0SvuaVYQo8q+u4J9+DyKU8TYXrR7B6/PVJtznz//V5fTk=
-manifoldfinance.com. 3600 IN DNSKEY 256 3 8 AwEAAbvdhd8g3RYivlpoRuH3NtaaCeiyyqQrmVSvYY/++WADGFbyeMAwkJnHvd21NtiUn8UNjfhwsevhM5XSNg0PwLQlS9NC3DqiYzXFRhJQqN5uEP7jNWIgVOxZ40fHMABr+QiDL7lQb24aNmGUCv095IwYWw516qnskZ+j/QOJQZTR
-manifoldfinance.com. 3600 IN CDNSKEY 257 3 8 AwEAAcFyZWEaj05w1zA/0ZmrKRIqFmTWeoPTHTwkiybIxH00nFDjHy0c6lsW4RlWSnFKwahSbPBVjsVPPI8hfA4777TN4mjjwHJ0CLNdojkS+vm3u02/qhpcm8UrZnyxP012vQAScjhnnd7LvMBzowLEOGSfegXo4E6zuxVEeB1CGK0SvuaVYQo8q+u4J9+DyKU8TYXrR7B6/PVJtznz//V5fTk=
-manifoldfinance.com. 3600 IN CDS 31934 8 2 2858CC6F689CF02702849F75EE1703802D4C4AAFAB775C421A0DC0852FC17264
 jean-genie-kangaroo.manifoldfinance.com. 3600 IN CNAME endorsed-kind.b-cdn.net.
 docs.manifoldfinance.com. 3600 IN CNAME docs-manifold.netlify.app.
 roadmap.manifoldfinance.com. 3600 IN CNAME cname.frill.co.
+frl2._domainkey.manifoldfinance.com. 3600 IN CNAME frl2.domainkey.u25497065.wl066.sendgrid.net.
+frill5084.manifoldfinance.com. 3600 IN CNAME u25497065.wl066.sendgrid.net.
+frl._domainkey.manifoldfinance.com. 3600 IN CNAME frl.domainkey.u25497065.wl066.sendgrid.net.
+manifoldfinance.com. 3600 IN DNSKEY 257 3 8 AwEAAd6UilYIyhxvE+AGSNvRcW3n+WLZFuc8/HBQ4jFpXCP/fQRvulOYWyMG8lHk/GgRhJgdGcihEXRFTB+qVEGAAuM0CNZfF9drtgYuKGaD15lYzEKM+9waOktvyo2vVW/utPefZcZmYqQtt7lai9SUtAOiqPwSTfInkrEtnwN200xhznL+RCKRw3Wi0oe06Us6htgHukjmwt7AUVUZRB4Qnu8=
+manifoldfinance.com. 3600 IN DNSKEY 256 3 8 AwEAAcKUwtS/iR7fTSO/8MvhQnsxyDiRrHFfMO+/eyBA5I1pEA/srtuJULgJFlAHwq4oJS5k1njxTg4BoiJYbiHHEWU8Q0prmz0aJ1kegHq4B9z1vMPHtY87RhPeUN+f2apyQh4hZayJ4NLgpAa0fxvkD8j1blRBwMhWIXHGGGQdJTS1
+manifoldfinance.com. 3600 IN CDNSKEY 257 3 8 AwEAAd6UilYIyhxvE+AGSNvRcW3n+WLZFuc8/HBQ4jFpXCP/fQRvulOYWyMG8lHk/GgRhJgdGcihEXRFTB+qVEGAAuM0CNZfF9drtgYuKGaD15lYzEKM+9waOktvyo2vVW/utPefZcZmYqQtt7lai9SUtAOiqPwSTfInkrEtnwN200xhznL+RCKRw3Wi0oe06Us6htgHukjmwt7AUVUZRB4Qnu8=
+manifoldfinance.com. 3600 IN CDS 46457 8 2 554B791EBF67A84ABEEF89C4D63E417B6BB822FAC5193B16B0AAEF57F3A77FC9
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b._openpgpkey.manifoldfinance.com. 3600 IN TXT "QINBGI9UqQBEADC732yXDU90r7fBK8o+LN+VAEOpUiB2HG42JPvuCcW5WhO                  ZCKn6OwIs2sjCWQBvCA46vO5x0KgxT5X95qkKSOqsNZyaT9p7gKdBCveJ6js                  ZvXaZ2mNcmgYkYSyGG75S1ytzs5O2qhnwwabkPe848O/4xKQlrBqFrf+GZ/W                  aESwWOAw+DZbxFLxcCyH4Ro6k2UaFIt9Uef1pDRCQ+UmWc0UVqGiWSaB97iA"
+manifoldfinance.com. 3600 IN CAA 0 iodef "mailto:sam@manifoldfinance.com"
+_dmarc.manifoldfinance.com. 3600 IN TXT "v=DMARC1; p=quarantine; ruf=mailto:ops@manifoldfinance.com; rua=mailto:ops@manifoldfinance.com;  _dmarc.manifoldfinance.com"
